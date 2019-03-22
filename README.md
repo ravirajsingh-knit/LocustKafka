@@ -8,6 +8,6 @@ Case Study:
   
  Observation:
   High Scalability of Kafka Server.
-  Bottlenack was decide with the network channel capability.
+  Bottlenack was decide by the network channel capability.
   Django API performance was better than Flask API performance(may be due to single thread environment in Flask).
 </pre>
